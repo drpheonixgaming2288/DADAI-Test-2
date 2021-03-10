@@ -1,0 +1,8 @@
+{
+    "intent_greeting": {
+        "utterances": [
+            "DADAI",
+            "WAKE UP!!"
+        ]
+    }
+}
